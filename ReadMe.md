@@ -5,5 +5,5 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JxXzcsN/av.png" alt="av" border="0"></a><br>
 <h1 align="center" style="color:lightgreen">nerothefinest</h1><br>
 <h3>Social Media Links</h3>
-<p><a href="https://www.github.com/nerothefinest">Github</a> <a href="https://www.instagram.com/kaanyarar">Instagram</a> <a href="https://www.twitter.com/nerothefinest">Twitter</a></p>
+<p><a href="https://www.github.com/nerothefinest">Github</a> <a href="https://kaanyarardev.medium.com">Medium</a> <a href="https://www.twitter.com/nerothefinest">Twitter</a></p>
 
