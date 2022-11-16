@@ -6,5 +6,5 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JxXzcsN/av.png" alt="av" border="0"></a><br>
 <h1 align="center" style="color:lightgreen">nerothefinest</h1><br>
 <h3>Social Media Links</h3>
-<p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="av" border="0"></a><br><a href="https://www.github.com/nerothefinest">Github</a> <a href="https://kaanyarardev.medium.com">Medium</a> <a href="https://www.twitter.com/nerothefinest">Twitter</a></p>
+<p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="av" border="0" width="25" height="25"></a><br><a href="https://www.github.com/nerothefinest">Github</a> <a href="https://kaanyarardev.medium.com">Medium</a> <a href="https://www.twitter.com/nerothefinest">Twitter</a></p>
 
