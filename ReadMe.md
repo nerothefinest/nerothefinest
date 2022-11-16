@@ -7,6 +7,6 @@
 <h1 align="center" style="color:lightgreen">nerothefinest</h1><br>
 <h3>Social Media Links</h3>
 <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="av" border="0" width="25" height="25">
-  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://www.google.com.tr/search?q=instagram+logo&tbm=isch&ved=2ahUKEwiwnhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png)" alt="av" border="0" width="25" height="25">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="av" border="0" width="25" height="25">
   <img src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="av" border="0" width="25" height="25"><br><a href="https://www.github.com/nerothefinest">Github</a> <a href="https://kaanyarardev.medium.com">Medium</a> <a href="https://www.twitter.com/nerothefinest">Twitter</a></p>
 
