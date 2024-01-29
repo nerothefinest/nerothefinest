@@ -1,1 +1,1 @@
-<img src="https://count.getloli.com/get/@:name" alt=":name" />
+<img src="https://count.getloli.com/get/@:nerothefinest" alt=":name" />
